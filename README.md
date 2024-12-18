@@ -21,16 +21,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsdev&" alt="sharathsdev" /></p>
  
  <!--START_SECTION:waka-->
- 
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 85 Bytes Used in GitHub's Storage 
+> 📦 104 Bytes Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2024
+> 🏆 20 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,45 +35,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5 commits           ████████░░░░░░░░░░░░░░░░░   31.25 % 
-🌆 Daytime                9 commits           ██████████████░░░░░░░░░░░   56.25 % 
-🌃 Evening                2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   5 commits           ████████░░░░░░░░░░░░░░░░░   31.25 % 
-Tuesday                  3 commits           █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Wednesday                8 commits           ████████████░░░░░░░░░░░░░   50.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -90,5 +48,5 @@ TypeScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/sharathsDev/sharathsDev/master/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2024 07:14:08 UTC
+ Last Updated on 18/12/2024 18:50:19 UTC
 <!--END_SECTION:waka-->
