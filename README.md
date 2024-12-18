@@ -20,11 +20,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsdev&" alt="sharathsdev" /></p>
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 76 Bytes Used in GitHub's Storage 
+> 📦 85 Bytes Used in GitHub's Storage 
  > 
 > 🏆 18 Contributions in the Year 2024
  > 
@@ -37,17 +39,17 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5 commits           ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌆 Daytime                8 commits           █████████████░░░░░░░░░░░░   53.33 % 
-🌃 Evening                2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+🌞 Morning                5 commits           ████████░░░░░░░░░░░░░░░░░   31.25 % 
+🌆 Daytime                9 commits           ██████████████░░░░░░░░░░░   56.25 % 
+🌃 Evening                2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   5 commits           ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Tuesday                  3 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Wednesday                7 commits           ████████████░░░░░░░░░░░░░   46.67 % 
+Monday                   5 commits           ████████░░░░░░░░░░░░░░░░░   31.25 % 
+Tuesday                  3 commits           █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Wednesday                8 commits           ████████████░░░░░░░░░░░░░   50.00 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -66,6 +68,9 @@ No Activity Tracked This Week
 🔥 Editors: 
 No Activity Tracked This Week
 
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
 💻 Operating System: 
 No Activity Tracked This Week
 ```
@@ -78,6 +83,10 @@ TypeScript               1 repo              ███████████�
 
 
 
+**Timeline**
 
- Last Updated on 18/12/2024 07:08:57 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/sharathsDev/sharathsDev/master/assets/bar_graph.png)
+
+
+ Last Updated on 18/12/2024 07:14:08 UTC
 <!--END_SECTION:waka-->
