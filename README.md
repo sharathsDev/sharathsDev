@@ -20,9 +20,64 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsdev&" alt="sharathsdev" /></p>
  <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-```txt
-No activity tracked
+**🐱 My GitHub Data** 
+
+> 📦 76 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 18 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5 commits           ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌆 Daytime                8 commits           █████████████░░░░░░░░░░░░   53.33 % 
+🌃 Evening                2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   5 commits           ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Tuesday                  3 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Wednesday                7 commits           ████████████░░░░░░░░░░░░░   46.67 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               1 repo              █████████████████████████   100.00 % 
+```
+
+
+
+
+ Last Updated on 18/12/2024 07:08:57 UTC
 <!--END_SECTION:waka-->
