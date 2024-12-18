@@ -19,7 +19,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharathsdev&show_icons=true&locale=en" alt="sharathsdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsdev&" alt="sharathsdev" /></p>
+ 
  <!--START_SECTION:waka-->
+ 
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
