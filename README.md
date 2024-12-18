@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharathsdev&show_icons=true&locale=en" alt="sharathsdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsdev&" alt="sharathsdev" /></p>
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
