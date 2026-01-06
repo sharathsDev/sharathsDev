@@ -21,11 +21,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsdev&" alt="sharathsdev" /></p>
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C367%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C369%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.22%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.22%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -66,18 +66,19 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 40 mins       █████████████░░░░░░░░░░░░   50.30 % 
-Markdown                 1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-SCSS                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+TypeScript               3 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   36.56 % 
+Markdown                 2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+TOML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 59 mins       █████████████░░░░░░░░░░░░   53.85 % 
-VS Code                  4 hrs 17 mins       ████████████░░░░░░░░░░░░░   46.15 % 
+Cursor                   6 hrs 52 mins       ██████████████████░░░░░░░   70.61 % 
+VS Code                  2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+Neovim                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 💻 Operating System: 
-Linux                    9 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,5 +91,5 @@ JavaScript               4 repos             ████░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 02:42:26 UTC
+ Last Updated on 06/01/2026 02:29:27 UTC
 <!--END_SECTION:waka-->
