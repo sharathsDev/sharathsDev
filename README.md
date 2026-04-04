@@ -21,9 +21,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsdev&" alt="sharathsdev" /></p>
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C463%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C464%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.92%20million%20lines%20of%20code-blue?style=flat)
 
@@ -66,18 +66,17 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.60 % 
-Markdown                 1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-Other                    1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Git Config               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+TypeScript               1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+Markdown                 1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+Other                    1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+Git Config               50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 37 mins       ███████████████████████░░   91.34 % 
-Cursor                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+VS Code                  6 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,5 +89,5 @@ JavaScript               4 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 03/04/2026 03:28:42 UTC
+ Last Updated on 04/04/2026 03:00:50 UTC
 <!--END_SECTION:waka-->
