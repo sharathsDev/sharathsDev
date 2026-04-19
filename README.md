@@ -21,6 +21,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsdev&" alt="sharathsdev" /></p>
  
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C495%20hrs%2034%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.75%20million%20lines%20of%20code-blue?style=flat)
@@ -88,5 +90,5 @@ JavaScript               4 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 18/04/2026 03:33:09 UTC
+ Last Updated on 19/04/2026 03:51:45 UTC
 <!--END_SECTION:waka-->
