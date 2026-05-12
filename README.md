@@ -21,7 +21,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsdev&" alt="sharathsdev" /></p>
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C534%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C540%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -39,56 +39,15 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4570 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-🌆 Daytime                14625 commits       ██████████████░░░░░░░░░░░   56.58 % 
-🌃 Evening                6409 commits        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-🌙 Night                  246 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   5260 commits        █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Tuesday                  4250 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Wednesday                5121 commits        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Thursday                 5583 commits        █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-Friday                   5230 commits        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Saturday                 405 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 5 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   36.02 % 
-TypeScript               4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-Other                    2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Python                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-
-🔥 Editors: 
-Unknown Editor           9 hrs 17 mins       ██████████████░░░░░░░░░░░   57.38 % 
-VS Code                  6 hrs 54 mins       ███████████░░░░░░░░░░░░░░   42.62 % 
-
-💻 Operating System: 
-Linux                    16 hrs 11 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               26 repos            ██████████████████████░░░   86.67 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+TypeScript               26 repos            █████████████████████░░░░   83.87 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 ```
 
 
 
 
- Last Updated on 11/05/2026 04:22:38 UTC
+ Last Updated on 12/05/2026 04:12:41 UTC
 <!--END_SECTION:waka-->
